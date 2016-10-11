@@ -1,0 +1,72 @@
+* {
+	box-sizing: border-box;
+	margin: 0
+}
+
+.firstpics {
+	width: 32%;
+	height: 150px;
+	float: left;
+	margin: .5%;
+	margin-bottom: 30px;
+}
+
+#first1 {
+	background-color: #D0021B;
+}
+
+#first2 {
+	background-color: #4A90E2;
+}
+
+#first3 {
+	background-color: #4A4A4A;
+}
+
+#text {
+	clear: both;
+	display: block;
+	margin: .5%;
+	font-family: sans-serif;
+}
+
+#secondpics {
+	margin-top: 30px;
+	margin-bottom: 380px;
+}
+
+#second1 {
+	background-color: #D0021B;
+	height: 300px;
+	width: 35%;
+	float: left;
+	margin-left: .5%;
+}
+
+#second2 {
+	background-color: #4A90E2;
+	height: 300px; 
+	width: 64%;
+	float: right;
+	margin-right: .5%;
+}
+
+#third1 {
+	background-color: #4A90E2;
+	height: 120px;
+	width: 99%;
+	margin: 0 0.5% 0.5%;
+}
+
+#third2 {
+	background-color: #D0021B;
+	height: 120px;
+	width: 27%;
+	float: right;
+	padding: 0 30px;
+}
+
+#third3 {
+	background-color: #4A4A4A;
+	height: 120px;
+}
