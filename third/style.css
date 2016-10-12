@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+	background-color: #333333;
+	height: 60px;
+	position: relative;
+}
+
+header p {
+	color: white;
+	font-family: sans-serif;
+	position: absolute;
+	top: 33%;
+}
+
+#p1 {
+	left: 10%;
+}
+
+#p2 {
+	left: 30%;
+}
+
+main {
+	padding: 6vh 4vw;
+}
+
+#col1 {
+	width: 42vw;
+	float: left;
+	margin-right: 3vw;
+	margin-bottom: 6vh;
+}
+
+#col2 {
+	width: 42vw;
+	float: left;
+}
+
+img {
+	width: 42vw;
+	height: 300px;
+}
+
+footer {
+	background-color: #333333;
+	height: 60px;
+	position: relative; 
+	clear: both;
+	
+}
